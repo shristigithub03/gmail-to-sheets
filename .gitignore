@@ -1,0 +1,24 @@
+# API credentials
+credentials.json
+token*.pickle
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.python-version
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# State files
+last_processed.json
